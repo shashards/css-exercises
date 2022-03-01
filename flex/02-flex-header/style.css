@@ -13,9 +13,10 @@
   padding: 4px 32px;
 }
 
-.left-links {
+.ul {
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-between;
+  align-items: center;
 
 }
 
