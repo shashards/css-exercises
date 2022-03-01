@@ -15,7 +15,8 @@
 
 .left-links {
   display: flex;
-  
+  justify-content: flex-start;
+
 }
 
 ul {
