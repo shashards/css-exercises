@@ -13,6 +13,11 @@
   padding: 4px 32px;
 }
 
+.left-links {
+  display: flex;
+  
+}
+
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
