@@ -20,7 +20,7 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px;
+  padding: 5px;
 }
 
 a {
@@ -29,4 +29,9 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+}
+
+li {
+  margin-left: 10px;
+  margin-right: 10px;
 }
