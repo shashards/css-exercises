@@ -33,6 +33,7 @@ body {
 
 .right, .left {
   display: flex;
+  align-items: center;
 
 }
 
