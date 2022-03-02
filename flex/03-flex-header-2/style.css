@@ -52,8 +52,8 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  justify-content: space-between;
 }
 
-li {
-  margin-right: 10px;
-}
+
