@@ -36,5 +36,8 @@ img {
 .plant {
   text-align: center;
   width: 200px;
-  
+}
+
+.text {
+  word-break: break-all; 
 }
