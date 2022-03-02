@@ -30,3 +30,8 @@ img {
 .plants {
   display: flex;
 }
+
+
+.plant {
+  text-align: center;
+}
