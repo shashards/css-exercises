@@ -31,6 +31,11 @@ body {
   font-style: italic;
 }
 
+.right, .left {
+  display: flex;
+
+}
+
 button {
   border: none;
   border-radius: 8px;
