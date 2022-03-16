@@ -64,3 +64,9 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.header {
+  font-size: 18px;
+  font-weight: bold;
+}
+
