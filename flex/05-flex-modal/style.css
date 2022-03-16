@@ -70,3 +70,8 @@ button.cancel {
   font-weight: bold;
 }
 
+.modal-right {
+  display: flex;
+  justify-content: right;
+}
+
