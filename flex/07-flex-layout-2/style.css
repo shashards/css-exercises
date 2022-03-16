@@ -30,6 +30,7 @@ body {
   width: 300px;
   background: royalblue;
   flex-shrink: 0;
+  padding: 16px;
 }
 
 .card {
