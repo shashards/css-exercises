@@ -28,6 +28,10 @@ input {
   margin-bottom: 16px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
