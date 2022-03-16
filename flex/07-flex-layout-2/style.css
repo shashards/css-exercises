@@ -42,6 +42,10 @@ body {
   display: flex;
 }
 
+.cards-container {
+  display: flex;
+}
+
 ul {
   list-style-type: none;
 }
