@@ -77,3 +77,8 @@ button.cancel {
   flex-direction: column;
 }
 
+.header-close {
+  display: flex;
+  justify-content: space-around;
+}
+
