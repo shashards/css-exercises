@@ -85,3 +85,10 @@ button.cancel {
   justify-content: space-between;
 }
 
+.modal-buttons {
+  margin-top: 10px;
+}
+
+.text {
+  margin-top: 10px;
+}
