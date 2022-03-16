@@ -74,5 +74,6 @@ button.cancel {
 .modal-right {
   display: flex;
   justify-content: right;
+  flex-direction: column;
 }
 
