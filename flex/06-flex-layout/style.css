@@ -45,6 +45,7 @@ a {
 .footer {
   display: flex;
   justify-content: space-between;
+  background-color: #d3d3d3;
 }
 
 .content {
